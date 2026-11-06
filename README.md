@@ -1,5 +1,7 @@
 # Kelingua
 
+**v3.0.5:** fixed the dashboard rotating word being cut off at the edge ("UNDERSTA") and the Translate FROM picker showing "Auto-de" instead of "Auto-detect".
+
 Translate what you type, paste or speak — 240 languages, with auto-detect.
 
 Kelingua is a translator app for Android. Paste a WhatsApp chat or a social
@@ -18,15 +20,15 @@ including Hausa, Yoruba, Igbo, Kanuri and Tiv.
 
 ## Install
 
-Download **Kelingua-standalone-v3.0.4.apk** from the
+Download **Kelingua-standalone-v3.0.5.apk** from the
 [latest release](https://github.com/malwar77/kelingua/releases/latest)
 and install it on your Android phone (Android 8.0+). It installs over
 earlier Kelingua versions without uninstalling, and your Saved items are
 kept.
 
 - Package: `ng.com.kelickhub.kelingua`
-- Version: 3.0.4 (versionCode 17), target SDK 34
-- SHA-256: `5f199817b01332d3a28a82074989f1c47b05310e011a67736e9ade3d984aaffb`
+- Version: 3.0.5 (versionCode 18), target SDK 34
+- SHA-256: `ad4b762ffeedb204e26d2dc12075f0ed6c4804b7e9aa75b57f16643c82b49f50`
 - Signing certificate SHA-256:
   `a9d7bf8a1a859f2e661ef9b1f060ffd522e06b47ad464afdad2ad26852772a5a`
 - Permissions: Internet, network state, microphone (voice input only)

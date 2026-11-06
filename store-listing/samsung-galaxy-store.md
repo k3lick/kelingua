@@ -1,4 +1,4 @@
-# Samsung Galaxy Store — Kelingua listing kit (v3.0.4)
+# Samsung Galaxy Store — Kelingua listing kit (v3.0.5)
 
 Prepared 6 Nov 2026. Copy each field into Seller Portal (seller.samsungapps.com).
 Do NOT paste the Pro/SaaS offer into this listing: this APK is the free
@@ -9,7 +9,7 @@ Samsung IAP rules into the review. Kelingua Pro lives on the web only.
 
 - App title: Kelingua
 - Package: ng.com.kelickhub.kelingua
-- Version: 3.0.4 (versionCode 17)
+- Version: 3.0.5 (versionCode 18)
 - Category: Education
 - Price: Free, no in-app purchases
 - Content rating: Everyone
@@ -17,8 +17,8 @@ Samsung IAP rules into the review. Kelingua Pro lives on the web only.
 - Support / website URL: https://kelickhub.com.ng
 - Privacy policy URL: https://kelickhub.com.ng/privacy
   (also linked inside the app, in the ••• menu under Privacy)
-- Binary: Kelingua-standalone-v3.0.4.apk (833,127 bytes)
-  SHA-256: 5f199817b01332d3a28a82074989f1c47b05310e011a67736e9ade3d984aaffb
+- Binary: Kelingua-standalone-v3.0.5.apk (833,127 bytes)
+  SHA-256: ad4b762ffeedb204e26d2dc12075f0ed6c4804b7e9aa75b57f16643c82b49f50
   Signing cert SHA-256: a9d7bf8a1a859f2e661ef9b1f060ffd522e06b47ad464afdad2ad26852772a5a
 - Target SDK: 34 (Galaxy Store needs 33 or higher — met)
 - Min SDK: 26 (Android 8.0+)
@@ -49,6 +49,10 @@ no sign-in, no ads.
 
 translator, translate, Hausa, Yoruba, Igbo, languages, voice translator,
 Learn, offline queue
+
+## Screenshots — RECEIVED 6 Nov 2026, RETAKES NEEDED after v3.0.5
+
+Shots 1 and 3 below were taken on v3.0.4 and show the two clipping bugs v3.0.5 fixes. Retake them on v3.0.5 before submitting; shots 2 and 5 are still fine as-is.
 
 ## Screenshots — RECEIVED 6 Nov 2026 (5 phone screenshots, 921x2048 JPG)
 

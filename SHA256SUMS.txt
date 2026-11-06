@@ -1,1 +1,1 @@
-5f199817b01332d3a28a82074989f1c47b05310e011a67736e9ade3d984aaffb  Kelingua-standalone-v3.0.4.apk
+ad4b762ffeedb204e26d2dc12075f0ed6c4804b7e9aa75b57f16643c82b49f50  Kelingua-standalone-v3.0.5.apk
