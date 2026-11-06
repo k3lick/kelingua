@@ -50,20 +50,29 @@ no sign-in, no ads.
 translator, translate, Hausa, Yoruba, Igbo, languages, voice translator,
 Learn, offline queue
 
-## Screenshots — STILL NEEDED (4 minimum, 8 maximum)
+## Screenshots — RECEIVED 6 Nov 2026 (5 phone screenshots, 921x2048 JPG)
 
-Galaxy Store wants 4–8 screenshots, PNG or JPG, 320–3840 px on a side,
-aspect ratio no wider than 2.3:1. Take them on the phone from the
-installed Kelingua v3.0.4 app:
+All are 921x2048, aspect 2.22:1 — inside Samsung's "no wider than 2.3:1"
+limit. They are in store-listing/screenshots/ and in the GitHub repo.
 
-1. About screen (dashboard)
-2. Translate screen — a translation in progress or done
-3. Conversation screen
-4. Learn or Saved screen
+- 1-about-dashboard.jpg — About screen, pill "Kelingua v34 loaded —
+  240 languages". USABLE, but the big rotating word is clipped at the
+  right edge ("UNDERSTA" instead of "UNDERSTAND"). Fix the clip before
+  submitting, or retake when the word is a short one.
+- 2-menu-open.jpg — ••• menu open with Translate / Conversation / Learn /
+  Saved / Privacy. USABLE as-is.
+- 3-translate-yoruba.jpg — Translate screen, Auto-detect → Yoruba, pasted
+  lyrics in the box. USABLE, but the FROM picker reads "Auto-de" —
+  "Auto-detect" is truncated. Same fix batch as the dashboard clip.
+- 4-saved-NOT-FOR-STORE.jpg — Saved screen. DO NOT SUBMIT: the Recent
+  translations list shows explicit song lyrics ("Fuck until we went…").
+  Retake it with clean text, or drop the Saved shot and use 1, 2, 3, 5.
+- 5-privacy.jpg — Privacy screen. USABLE as-is.
 
-Save them as screenshot-1.png … screenshot-4.png in this folder before
-submitting. Do not use mockups or the web PWA screenshots — use the
-installed app.
+That leaves 4 usable shots (1, 2, 3, 5), which meets the 4 minimum.
+A Conversation or Learn shot would still be nice as a 5th — the menu
+shot already shows both exist, but no Conversation/Learn screen shot
+was sent.
 
 ## Permissions to declare in review notes
 
